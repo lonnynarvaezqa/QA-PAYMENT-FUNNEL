@@ -21,9 +21,7 @@ This test plan focuses on validating the system's core flow. The following funct
 *The following areas are excluded from the scope of this plan:*
 
  - **Performance and Load Testing:** Response times under high volumes of transactions or concurrent users will not be measured.
-
  - **Exhaustive Security Testing:** Penetration testing, vulnerability analysis, or API-level fuzzing will not be performed.
-
  - **UI/UX Testing:** This plan focuses solely on the API's behavior, not on the user interface.
 
 
@@ -106,9 +104,13 @@ The following potential risks and their mitigation strategies have been identifi
 
 The following deliverables will be generated and kept updated in the GitHub repository:
 
--Test Plan (TestPlan.md): The current document detailing the strategy and scope.
--Test Case Collection: The Postman .json file containing all endpoints and test logic.
--Test Report (TestReport.md): A summary document of the latest execution results, including the number of passed/failed cases and key observations.
+ - Test Plan (TestPlan.md): The current document detailing the strategy
+   and scope.
+ - Test Case Collection: The Postman .json file containing all endpoints
+   and test logic.
+ - Test Report (TestReport.md): A summary document of the latest
+   execution results, including the number of passed/failed cases and
+   key observations.
 
 ## 10. Communication Plan
 
