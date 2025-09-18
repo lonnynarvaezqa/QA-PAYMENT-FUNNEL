@@ -3,6 +3,8 @@
 ## 📌 Project Description
 This repository contains the documentation and QA test scripts for validating the payment flow system. The main objective is to ensure the end-to-end functionality of the payment process through regression and integration testing.
 
+![QA Payment Funnel Illustration](./assets/qa-payment-funnel-illustration.png)
+
 ## 📂 Repository Contents
 - `/docs`: Detailed documentation (test plan and reports).
 - `/src/tests/Postman`: Postman collections and environments.
