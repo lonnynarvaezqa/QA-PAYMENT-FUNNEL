@@ -1,0 +1,22 @@
+# 📄 .gitignore
+```
+# Node
+node_modules/
+
+
+# Environment
+.env
+*.env
+
+
+# Postman exports
+*.postman_environment.json
+
+
+# Logs
+*.log
+
+
+# System
+.DS_Store
+```
