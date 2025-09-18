@@ -23,8 +23,6 @@ newman run src/tests/Postman/PayFunnel.postman_collection.json -e src/tests/Post
 -r cli,htmlextra --reporter-htmlextra-export newman-report.html
 ```
 
-![Newman Tests](https://github.com/lonnynarvaezqa/qa-payment-funnel/actions/workflows/newman-tests.yml/badge.svg)
-
 ## 📑 Deliverables
 - [Test Plan](./docs/TestPlan.md)
 - [Test Execution Report](./docs/TestReport.md)
