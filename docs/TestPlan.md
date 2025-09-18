@@ -1,4 +1,4 @@
-📘 Test Plan: Payment Funnel API
+Test Plan: Payment Funnel API
 1. Introduction and Objectives
 The main objective of this test plan is to ensure the stability and functionality of the End-to-End (E2E) payment flow for a Buy Now Pay Later (BNPL) system. Through the execution of automated API tests, the goal is to verify that the system meets its functional and business requirements, ensuring a smooth and uninterrupted user experience. The plan aims to proactively detect and document any defects in service integration, data validation, and process logic, thus guaranteeing product quality before deployment to a production environment.
 
