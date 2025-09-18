@@ -1,11 +1,9 @@
 
-**
-
 # Test Plan: Payment Funnel API
 
 ## **1. Introduction and Objectives**
 
-The main objective of this test plan is to ensure the stability and functionality of the End-to-End (E2E) payment flow for a Buy Now Pay Later (BNPL) system. Through the execution of automated API tests, the goal is to verify that the system meets its functional and business requirements, ensuring a smooth and uninterrupted user experience. The plan aims to proactively detect and document any defects in service integration, data validation, and process logic, thus guaranteeing product quality before deployment to a production environment.
+The main objective of this test plan is to ensure the stability and functionality of the End-to-End (E2E) payment flow. Through the execution of automated API tests, the goal is to verify that the system meets its functional and business requirements, ensuring a smooth and uninterrupted user experience. The plan aims to proactively detect and document any defects in service integration, data validation, and process logic, thus guaranteeing product quality before deployment to a production environment.
 
 ## **2. Scope**
 
@@ -63,19 +61,15 @@ The estimated schedule for the initial phase of this test plan, distributed over
 
 **Week 1:**
 *Monday to Wednesday:* Planning, requirements analysis, and detailed test case design.
-
 *Thursday to Friday:* Test environment setup and Postman collection preparation.
 
 **Week 2:**
 *Monday to Thursday:* Implementation of automated tests in the Postman collection.
-
 *Friday:* First execution of the E2E test suite to identify initial bugs and verify the happy path.
 
 **Week 3:**
 *Monday to Wednesday:* Results analysis, defect reporting, and follow-up with the development team.
-
 *Thursday:* Re-execution of regression tests.
-
 *Friday:* Creation of the final report and closure of the test cycle.
 
 ## **7. Entry and Exit Criteria**
@@ -112,11 +106,9 @@ The following potential risks and their mitigation strategies have been identifi
 
 The following deliverables will be generated and kept updated in the GitHub repository:
 
-Test Plan (TestPlan.md): The current document detailing the strategy and scope.
-
-Test Case Collection: The Postman .json file containing all endpoints and test logic.
-
-Test Report (TestReport.md): A summary document of the latest execution results, including the number of passed/failed cases and key observations.
+-Test Plan (TestPlan.md): The current document detailing the strategy and scope.
+-Test Case Collection: The Postman .json file containing all endpoints and test logic.
+-Test Report (TestReport.md): A summary document of the latest execution results, including the number of passed/failed cases and key observations.
 
 ## 10. Communication Plan
 
