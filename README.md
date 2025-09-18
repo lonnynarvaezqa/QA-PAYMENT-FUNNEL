@@ -11,7 +11,7 @@ This repository contains the documentation and QA test scripts for validating th
 ## ▶️ How to Run
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/qa-pay-funnel.git
+git clone https://github.com/lonnyvnarvaezqa/qa-payment-funnel.git
 ```
 2. **Install Newman**
 ```bash
